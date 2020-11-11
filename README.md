@@ -1,3 +1,5 @@
+![Profile Pic](profile_pic.png)
+
 ### About Me
 
 I'm a Java programmer, not yet an expert nor experienced.
