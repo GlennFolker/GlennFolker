@@ -1,4 +1,4 @@
-![Profile Pic](azurite.png)
+![Profile Pic](azurite-pixelated.png)
 
 ### About Me
 
