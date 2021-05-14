@@ -1,6 +1,6 @@
 ### About Me
 
-A programmer fluent in Java.
+Random programmer, carry on.
 
 ### Finished projects:
 - [**Stack Walking**](https://github.com/GlennFolker/StackWalking): A testing utility tool written in Java to obtain a function's caller class without using the internal reflection classes.
