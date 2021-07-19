@@ -3,6 +3,7 @@
 Random programmer, carry on.
 
 ### Finished projects:
+- [**Tile Gen**](https://github.com/GlennFolker/TileGen): A finished utility tool written in Java to generate tile variants for bit-masking. Further guides are in its `README.md`.
 - [**Stack Walking**](https://github.com/GlennFolker/StackWalking): A testing utility tool written in Java to obtain a function's caller class without using the internal reflection classes.
 - [**Name Gen**](https://github.com/GlennFolker/NameGen): A testing utility tool written in Java to append random zalgo characters into a string line.
 - [**Byte Packer**](https://github.com/GlennFolker/BytePacker): A testing utility tool written in Java to pack `byte[]` into `String` and vice versa.
