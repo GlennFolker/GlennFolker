@@ -8,7 +8,7 @@ Random programmer, carry on.
 - [**Name Gen**](https://github.com/GlennFolker/NameGen): A testing utility tool written in Java to append random zalgo characters into a string line.
 - [**Byte Packer**](https://github.com/GlennFolker/BytePacker): A testing utility tool written in Java to pack `byte[]` into `String` and vice versa.
 - [**Sneaky**](https://github.com/GlennFolker/Sneaky): A testing program to test out `javac` plugins. Does nothing at all to the compiled bytecodes.
-- [**Avant Bot**](https://github.com/AvantTeam/AvantBot): The bot used in [**Avant**](https://github.com/AvantTeam)'s [Discord server](https://discord.gg/V6ygvgGVqE).
+- [**Avant Bot**](https://github.com/AvantTeam/AvantBot): The bot used in [**Avant**](https://github.com/AvantTeam)'s Discord server.
 
 ### Currently working on:
 - [**Project Unity**](https://github.com/AvantTeam/ProjectUnity): A mega-collaboration [Mindustry](https://github.com/Anuken/Mindustry) mod.
